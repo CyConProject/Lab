@@ -1,0 +1,1001 @@
+Budget (USD),Duration (Months),NumWorkers,SafetyIncidents,Location,ProjectType,MaterialType,ProjectPhase
+801976.5588,13.90911436,25,0,Los Angeles,Infrastructure,Wood,Execution
+4462830.85,41.54999492,249,11,New York,Industrial,Wood,Closing
+2878827.836,38.59688953,240,7,Phoenix,Infrastructure,Steel,Closing
+4587195.078,27.33876957,264,10,Los Angeles,Infrastructure,Wood,Planning
+4633083.365,49.70608718,232,10,Los Angeles,Infrastructure,Wood,Closing
+584200.9978,7.199094799,65,2,Los Angeles,Commercial,Steel,Closing
+4321442.497,42.56807232,251,8,Chicago,Industrial,Steel,Planning
+4302839.238,38.57922451,274,11,San Diego,Commercial,Brick,Planning
+2278041.51,22.78905153,150,4,San Diego,Residential,Wood,Planning
+3174903.415,26.75117387,176,7,Phoenix,Infrastructure,Brick,Closing
+2015727.038,10.00899658,168,5,Chicago,Residential,Brick,Closing
+4269333.519,31.56327826,214,9,Phoenix,Industrial,Concrete,Closing
+759114.368,6.741998262,93,2,San Diego,Residential,Steel,Planning
+682843.0601,18.34510763,45,0,Chicago,Residential,Steel,Execution
+2155672.215,17.24407142,134,5,Phoenix,Industrial,Steel,Planning
+4400613.595,39.08715513,230,10,New York,Infrastructure,Concrete,Planning
+4439563.883,26.98431456,243,10,San Jose,Residential,Concrete,Execution
+4622043.234,40.7848648,238,10,San Jose,Residential,Wood,Execution
+4536212.549,46.51639019,262,10,Houston,Commercial,Glass,Closing
+1142945.027,10.17631776,36,1,Houston,Industrial,Concrete,Planning
+734579.6581,11.70575987,56,2,Los Angeles,Residential,Steel,Closing
+2762117.621,38.21336477,182,9,San Antonio,Residential,Brick,Closing
+4470011.856,32.83424093,240,10,San Jose,Infrastructure,Glass,Closing
+647226.6165,4.703932391,49,2,Phoenix,Industrial,Steel,Execution
+1902230.116,14.40191283,153,3,Phoenix,Industrial,Steel,Execution
+979854.6653,6.484117874,49,3,New York,Industrial,Steel,Planning
+801510.0781,9.627770421,12,1,Dallas,Industrial,Glass,Closing
+2132576.254,25.86736929,154,4,Chicago,Infrastructure,Brick,Planning
+784173.0876,9.080083318,50,1,Los Angeles,Industrial,Glass,Execution
+4545799.278,30.71049274,262,10,New York,Industrial,Wood,Execution
+2318901.013,15.76519326,130,3,Dallas,Commercial,Glass,Closing
+3374193.035,31.94807089,183,9,Philadelphia,Infrastructure,Wood,Execution
+2947097.032,19.98068818,213,7,San Diego,Residential,Wood,Closing
+493939.1203,14.36228664,63,1,San Antonio,Infrastructure,Brick,Execution
+2199209.537,16.21602456,122,7,San Antonio,Residential,Concrete,Execution
+4592873.973,37.24724034,256,9,Chicago,Infrastructure,Steel,Execution
+2107301.969,15.50766009,151,5,Chicago,Infrastructure,Glass,Planning
+4564416.462,39.94453998,234,11,Chicago,Residential,Brick,Execution
+1865301.875,21.39497081,133,7,San Antonio,Infrastructure,Concrete,Planning
+3075281.905,25.48974223,183,9,Philadelphia,Commercial,Brick,Planning
+3017731.518,30.98657854,188,8,Dallas,Industrial,Steel,Planning
+3039004.997,26.20858966,177,9,San Jose,Residential,Steel,Planning
+2237894.098,13.86196092,162,6,New York,Residential,Wood,Closing
+1162149.585,18.77670421,45,2,Los Angeles,Commercial,Steel,Closing
+4452806.003,43.72092855,258,10,Los Angeles,Residential,Concrete,Planning
+736784.0403,3.944919001,37,1,Phoenix,Infrastructure,Wood,Execution
+2820930.736,27.9594958,180,9,Los Angeles,Infrastructure,Steel,Execution
+4747530.752,41.89883818,231,10,Los Angeles,Industrial,Steel,Execution
+3323442.515,30.52177969,182,7,Dallas,Commercial,Concrete,Planning
+2773959.255,42.05838338,230,9,San Antonio,Commercial,Steel,Closing
+797122.9116,13.85432597,20,2,San Jose,Industrial,Concrete,Closing
+4104902.446,43.75549727,209,10,Dallas,Industrial,Brick,Execution
+2174013.546,22.47840944,153,5,New York,Infrastructure,Concrete,Planning
+2936030.495,30.75878996,183,10,Philadelphia,Industrial,Steel,Execution
+1109537.305,13.20421431,39,2,Phoenix,Industrial,Glass,Execution
+2237477.21,32.94781821,162,5,San Diego,Commercial,Brick,Planning
+1754846.867,12.6781256,154,6,Phoenix,Residential,Brick,Planning
+2782073.393,26.07619046,193,7,Los Angeles,Industrial,Concrete,Planning
+4432175.544,41.85030558,248,10,Dallas,Industrial,Brick,Planning
+1718736.507,19.58447214,120,6,San Jose,Industrial,Concrete,Execution
+1866185.452,25.19952344,138,7,San Antonio,Infrastructure,Concrete,Planning
+4481411.159,38.80249039,272,10,Phoenix,Commercial,Steel,Planning
+2193891.44,22.13597181,137,7,Los Angeles,Infrastructure,Glass,Closing
+655613.6268,15.44475298,51,0,Houston,Commercial,Wood,Closing
+1903451.296,15.23335696,152,7,Phoenix,Commercial,Concrete,Planning
+4736378.219,42.40454046,246,9,Dallas,Residential,Brick,Execution
+607430.8435,10.53215114,45,3,Los Angeles,Commercial,Brick,Planning
+2864964.345,29.27740665,184,8,Chicago,Industrial,Steel,Planning
+2237782.674,23.54151924,157,6,San Diego,Industrial,Glass,Execution
+4588954.762,35.87173159,253,10,Chicago,Infrastructure,Concrete,Planning
+4548576.403,29.58950648,,9,San Diego,Infrastructure,Wood,Closing
+4720775.469,42.37583873,250,9,Dallas,Industrial,Glass,Closing
+4335212.903,36.40445274,291,10,Dallas,Industrial,Steel,Execution
+3136043.221,35.96253756,164,8,Dallas,Infrastructure,Steel,Execution
+4821756.171,44.14114845,272,10,San Jose,Commercial,Brick,Closing
+4206642.962,37.49298927,270,11,New York,Commercial,Glass,Closing
+509940.7186,8.327493821,41,0,San Jose,Infrastructure,Wood,Planning
+2626692.01,35.03756845,186,9,San Diego,Residential,Brick,Execution
+4601248.198,47.2365285,261,9,Phoenix,Commercial,Concrete,Planning
+4569341.996,52.55778276,213,10,San Jose,Industrial,Steel,Closing
+2961992.193,28.21277289,196,9,Chicago,Industrial,Steel,Planning
+4695563.11,29.47176529,273,11,Chicago,Residential,Wood,Closing
+2033730.934,22.20970325,128,6,Chicago,Industrial,Glass,Closing
+990242.7844,7.959623135,9,0,Los Angeles,Infrastructure,Steel,Planning
+2944223.321,34.22578986,199,7,San Diego,Industrial,Brick,Planning
+2102621.16,18.70226661,165,6,Los Angeles,Commercial,Concrete,Closing
+774059.1263,12.57219417,64,0,Houston,Infrastructure,Brick,Planning
+2139644.663,21.96742693,168,6,Los Angeles,Residential,,Execution
+3067011.606,31.58077979,209,6,San Jose,Industrial,Wood,Closing
+4427992.146,36.35961451,257,10,San Jose,Infrastructure,Glass,Planning
+1962942.468,19.3508965,151,5,Phoenix,Residential,Wood,Planning
+3081952.559,25.69456045,228,9,Dallas,Industrial,Concrete,Planning
+2118950.868,24.26707779,165,5,Houston,Commercial,Wood,Planning
+654165.1524,9.071705117,28,0,Dallas,Commercial,Steel,Planning
+871579.3019,10.93304562,41,1,Philadelphia,Industrial,Concrete,Planning
+914634.1168,10.36658984,24,0,Phoenix,Commercial,Glass,Closing
+2336785.538,17.70557869,172,5,Houston,Industrial,Brick,Planning
+4375593.039,42.91368792,260,11,Los Angeles,Residential,Concrete,Execution
+542550.7691,9.04830661,32,0,Houston,Industrial,Concrete,Execution
+4144797.649,45.31970494,255,11,San Antonio,Industrial,Concrete,Execution
+3064811.406,24.26154305,202,5,San Jose,Residential,Wood,Execution
+1973748.607,20.38425941,146,4,Dallas,Infrastructure,Wood,Planning
+2696565.261,33.75289584,192,7,Dallas,Residential,Concrete,Planning
+2259398.909,19.88565969,130,4,Houston,Infrastructure,Brick,Planning
+2835516.014,35.60515334,200,8,Philadelphia,Infrastructure,Concrete,Closing
+3111102.529,25.40656744,192,8,Philadelphia,Residential,Wood,Planning
+4408430.323,39.20318884,243,9,Phoenix,Residential,Glass,Closing
+2070126.02,22.44593565,163,6,Phoenix,Industrial,Concrete,Planning
+745819.6812,10.58663692,76,0,Dallas,Commercial,Steel,Execution
+4586452.59,42.35022094,236,9,San Diego,Industrial,Wood,Execution
+4230084.758,37.92393116,251,10,Dallas,Industrial,Concrete,Execution
+1871703.681,22.15961272,166,6,Houston,Commercial,Concrete,Planning
+3032003.645,32.50891368,222,9,Chicago,Industrial,Steel,Planning
+4168675.358,37.37775932,235,11,Dallas,Commercial,Concrete,Closing
+983556.4123,11.27210422,57,1,Chicago,Commercial,Wood,Closing
+3110459.988,33.12815467,186,9,New York,Residential,Concrete,Execution
+2059750.582,16.24104475,141,6,San Jose,Commercial,Wood,Planning
+3151357.736,33.06234397,180,8,Phoenix,Infrastructure,Steel,Execution
+4755078.148,39.24142783,261,11,Dallas,Commercial,Wood,Execution
+818723.6579,1.184799223,56,1,New York,Industrial,Steel,Execution
+4126051.66,38.05739612,254,10,Philadelphia,Residential,Steel,Execution
+4528609.754,44.24805994,264,11,Chicago,Commercial,Wood,Closing
+4852237.625,39.99843164,226,10,Philadelphia,Commercial,Concrete,Closing
+4614748.884,33.61847792,224,10,San Jose,Industrial,Wood,Closing
+2557627.618,37.66716851,172,8,San Diego,Residential,Brick,Closing
+3184360.3,32.41343944,208,9,Houston,Industrial,Steel,Planning
+2928046.271,23.36976157,192,8,San Jose,Residential,Wood,Planning
+2902559.416,28.24039341,185,7,San Antonio,Infrastructure,Wood,Execution
+3399133.498,45.54959278,212,8,Houston,Industrial,Steel,Execution
+3244616.613,28.705728,207,7,San Jose,Infrastructure,Steel,Execution
+2011402.625,21.34296139,181,6,San Jose,Industrial,Steel,Closing
+1948240.787,27.99323585,161,5,Philadelphia,Residential,Brick,Execution
+772845.5297,10.75150881,43,1,Dallas,Commercial,Brick,Closing
+4118438.488,35.69807495,242,12,Houston,Commercial,Glass,Execution
+4422460.017,37.93192167,240,9,Chicago,Residential,Brick,Closing
+2729785.127,23.38771022,210,9,San Antonio,Commercial,Brick,Closing
+4285829.516,49.55709544,224,10,San Antonio,Industrial,Concrete,Closing
+811560.3538,1.449158037,23,2,San Antonio,Residential,Concrete,Execution
+2991435.324,30.29011367,217,6,Philadelphia,Commercial,Glass,Planning
+3190289.855,28.1674649,166,7,Los Angeles,Residential,Wood,Closing
+2922995.638,31.91494492,203,6,Philadelphia,Infrastructure,Brick,Planning
+2450499.031,27.50134912,189,9,San Diego,Infrastructure,Brick,Execution
+582156.4954,8.453938121,57,2,San Diego,Infrastructure,Glass,Execution
+4598285.891,42.84880179,254,10,Dallas,Commercial,Brick,Closing
+659538.7362,-2.119396633,18,2,San Antonio,Residential,Wood,Execution
+4740106.332,40.70179935,211,9,New York,Infrastructure,Concrete,Planning
+4309536.724,36.61502431,235,11,Los Angeles,Infrastructure,Wood,Planning
+4677500.793,43.80423327,251,10,Houston,Industrial,Steel,Closing
+4790185.51,49.03598322,216,9,Houston,Residential,Concrete,Closing
+1719478.946,28.74788372,125,4,Dallas,Industrial,Concrete,Closing
+2979349.048,21.78405594,196,10,Phoenix,Industrial,Glass,Planning
+1973473.251,15.12735348,172,5,San Antonio,Industrial,Steel,Planning
+4465439.653,43.85960077,259,9,San Antonio,Residential,Concrete,Planning
+740882.7967,11.21669725,45,1,San Diego,Infrastructure,Concrete,Closing
+4755393.077,41.69011741,226,9,Houston,Residential,Glass,Closing
+4191439.697,36.83622485,262,9,Los Angeles,Commercial,Glass,Planning
+2239314.3,19.20735213,149,4,Chicago,Industrial,Wood,Closing
+438674.1653,13.03004976,24,3,Phoenix,Industrial,Wood,Execution
+865311.3926,11.55625077,112,2,Phoenix,Residential,Brick,Execution
+1814529.373,21.19184491,170,6,Houston,Infrastructure,Concrete,Planning
+2046757.182,12.22052177,157,6,Philadelphia,Commercial,Wood,Execution
+2334514.477,22.09509505,136,5,Phoenix,Industrial,Brick,Planning
+4417555.851,44.56736866,261,10,Los Angeles,Infrastructure,Concrete,Execution
+4960727.75,32.60277888,275,11,Los Angeles,Infrastructure,Steel,Closing
+,25.83922201,241,11,Philadelphia,Infrastructure,Glass,Planning
+4620618.937,35.74732361,300,10,San Jose,Infrastructure,Wood,Execution
+2569331.416,35.48576356,190,7,Phoenix,Commercial,Brick,Execution
+2868376.702,28.48136986,173,7,Houston,Infrastructure,Brick,Planning
+1726624.26,18.87617299,127,3,San Diego,Infrastructure,Wood,Execution
+1982343.59,32.89854669,134,7,San Antonio,Industrial,Concrete,Planning
+4482512.934,42.74159814,269,10,San Jose,Residential,Glass,Planning
+879096.8362,20.81627362,44,1,Philadelphia,Residential,Brick,Execution
+3110295.255,31.70294608,208,7,Dallas,Infrastructure,Glass,Execution
+4699116.303,48.51586305,217,8,San Diego,Residential,Concrete,Planning
+527884.8309,18.76135222,69,2,Dallas,Industrial,Concrete,Execution
+759704.3256,5.845249418,55,1,San Jose,Industrial,Wood,Closing
+732052.8611,17.20058608,36,3,Philadelphia,Commercial,Brick,Execution
+1930269.573,18.25371148,144,7,San Jose,Industrial,Concrete,Closing
+4084437.636,38.39851098,283,10,Dallas,Infrastructure,Glass,Closing
+1255386.485,7.345656135,40,2,San Diego,Industrial,Wood,Execution
+4567710.575,35.31037212,254,9,San Diego,Industrial,Concrete,Closing
+2123830.852,30.28747735,150,4,Houston,Residential,Steel,Closing
+4343960.174,46.65287452,226,11,Chicago,Residential,Concrete,Execution
+2864858.384,30.17076209,178,7,San Antonio,Infrastructure,Glass,Execution
+2176621.955,19.61081401,146,8,New York,Infrastructure,Wood,Closing
+2552353.753,19.39649924,188,8,Dallas,Residential,Brick,Execution
+1787521.294,22.14153549,146,6,Los Angeles,Industrial,Steel,Closing
+2851503.153,27.57347082,225,10,San Diego,Infrastructure,Wood,Execution
+4472120.56,43.69826576,212,11,San Jose,Commercial,Wood,Execution
+4385650.792,41.66303755,269,10,Philadelphia,Residential,Concrete,Planning
+1924174.452,18.9820982,138,4,Houston,Commercial,Steel,Planning
+4514250.75,33.53246187,236,9,Houston,Commercial,Wood,Planning
+547433.7759,11.57123666,32,0,San Diego,Industrial,Concrete,Closing
+2108292.546,23.7957758,138,2,San Antonio,Residential,Brick,Planning
+2081963.731,18.79371173,163,7,Houston,Commercial,Glass,Closing
+792818.7488,3.771306106,53,1,Phoenix,Industrial,Concrete,Closing
+1842443.25,16.89576201,147,5,San Antonio,Commercial,Glass,Planning
+2992138.542,29.32751608,207,9,San Jose,Commercial,Wood,Planning
+4842408.057,31.26181745,259,10,Chicago,Industrial,Concrete,Closing
+2050747.932,22.33846586,172,5,San Antonio,Residential,Wood,Execution
+2224822.544,24.73763231,135,5,Phoenix,Commercial,Concrete,Execution
+2035978.83,26.96001143,168,3,San Diego,Residential,Wood,Execution
+4133771.024,33.85778084,208,10,San Jose,Industrial,Concrete,Planning
+2147368.779,18.59336221,151,6,San Antonio,Residential,Concrete,Closing
+2843246.867,26.54729474,182,7,San Jose,Industrial,Wood,Execution
+1994889.186,25.8636451,161,5,San Antonio,Industrial,Glass,Closing
+4409610.126,36.05330747,250,10,Dallas,Commercial,Wood,Closing
+4642921.958,29.75029361,273,10,Los Angeles,Industrial,Glass,Closing
+4713034.393,47.26308373,232,9,Houston,Residential,Wood,Closing
+2904755.825,34.3719459,205,8,San Diego,Infrastructure,Glass,Planning
+474136.1544,6.3453498,49,3,Los Angeles,Industrial,Wood,Planning
+765160.9116,6.614191442,70,1,San Diego,Commercial,Glass,Planning
+2221636.563,14.80047036,162,4,San Diego,Commercial,Concrete,Closing
+2044936.945,24.66295416,122,3,San Diego,Infrastructure,Brick,Execution
+4778690.906,43.55274551,259,10,San Jose,Residential,Steel,Planning
+1862369.931,31.26217903,170,5,San Diego,Commercial,Glass,Execution
+937656.7612,7.419776359,52,1,San Jose,Commercial,Glass,Planning
+1963420.712,26.8743821,137,4,New York,Commercial,Steel,Planning
+2079937.59,16.74321553,139,6,New York,Commercial,Brick,Execution
+4585097.987,45.98623462,223,9,,Infrastructure,Brick,Planning
+4743638.942,45.28684153,267,10,Dallas,Infrastructure,Steel,Closing
+3085177.441,30.09573889,187,8,San Antonio,Infrastructure,Glass,Planning
+2080746.018,19.87902197,132,5,Dallas,Infrastructure,Brick,Execution
+2878424.948,27.30438648,189,9,Philadelphia,Commercial,Brick,Closing
+2098806.037,21.30336883,139,4,Phoenix,Industrial,Glass,Closing
+752785.8584,9.879374564,54,1,Philadelphia,Infrastructure,Glass,Planning
+2402677.45,20.68267666,143,5,Chicago,Infrastructure,Steel,Closing
+2150668.324,21.90579192,176,6,Los Angeles,Residential,Steel,Execution
+1087428.327,14.40819878,50,2,San Diego,Commercial,Brick,Planning
+785540.2002,3.323278206,58,2,San Diego,Industrial,Brick,Planning
+4365976.96,45.85858957,226,10,Philadelphia,Residential,Brick,Planning
+2777708.409,31.23252389,210,9,New York,Infrastructure,Brick,Planning
+2209910.543,17.32382394,176,5,Houston,Commercial,Steel,Execution
+3021178.891,32.9220649,240,6,Philadelphia,Residential,Concrete,Execution
+1725619.771,11.93219301,179,5,New York,Commercial,Brick,Execution
+2870125.392,36.60652016,228,7,Chicago,Industrial,Concrete,Closing
+1060230.395,10.57837317,74,1,Phoenix,Infrastructure,Glass,Closing
+3153641.443,31.07698253,210,12,Philadelphia,Industrial,Wood,Closing
+1961018.344,25.66885048,162,2,Dallas,Residential,Steel,Planning
+4502499.864,54.34201528,217,11,Chicago,Infrastructure,Wood,Closing
+696025.0129,5.106181421,41,1,New York,Residential,Steel,Planning
+821557.4721,12.80392263,72,2,San Antonio,Infrastructure,Brick,Execution
+591495.8523,9.426317793,60,2,Houston,Commercial,Concrete,Execution
+3315623.612,34.92724843,217,8,New York,Industrial,Steel,Closing
+3392517.438,30.01847836,220,9,Houston,Commercial,Concrete,Execution
+4444001.34,33.60484632,260,9,San Jose,Infrastructure,Glass,Planning
+3078483.193,27.45518187,199,6,San Diego,Infrastructure,Glass,Execution
+3017063.629,25.95867139,183,9,Philadelphia,Industrial,Glass,Closing
+746297.3728,8.556706805,56,0,Philadelphia,Commercial,Steel,Execution
+4734039.742,40.67148249,252,11,Houston,Commercial,Wood,Planning
+853869.3028,17.66369457,48,1,Los Angeles,Commercial,Concrete,Closing
+4720164.28,45.30685482,261,10,Chicago,Infrastructure,Steel,Closing
+3096413.345,31.84366574,208,6,Houston,Commercial,Glass,Planning
+4281567.273,44.17375663,268,8,San Jose,Industrial,Concrete,Planning
+4833444.822,47.61619311,265,12,San Antonio,Infrastructure,Steel,Planning
+3216353.346,23.43890403,212,9,Philadelphia,Industrial,Brick,Closing
+641123.4551,10.55461295,27,1,San Diego,Industrial,Glass,Execution
+1935464.032,18.74583492,177,6,Philadelphia,Infrastructure,Steel,Execution
+3183078.055,27.25229863,198,7,Phoenix,Industrial,Wood,Execution
+915083.2698,14.06754818,76,1,San Jose,Commercial,Wood,Execution
+2896714.071,29.01766708,196,7,San Diego,Infrastructure,Concrete,Closing
+2243431.704,27.60658026,170,5,Dallas,Residential,Steel,Closing
+2779027.441,31.10270714,224,7,Houston,Commercial,Brick,Closing
+4639080.495,34.29495745,248,9,New York,Industrial,Steel,Closing
+3209463.541,35.84794996,195,8,Phoenix,Infrastructure,Glass,Planning
+818545.0693,12.2837661,61,1,San Jose,Infrastructure,Glass,Execution
+3092641.258,23.16431097,217,7,Philadelphia,Commercial,Concrete,Closing
+3252741.336,25.76842011,211,8,Dallas,Industrial,Steel,Planning
+5148618.594,51.53958125,246,10,Phoenix,Residential,Brick,Closing
+3195163.344,34.59227222,175,8,San Jose,Residential,Glass,Execution
+2700694.149,26.74988033,198,7,New York,Infrastructure,Steel,Closing
+4297880.356,37.42390803,281,11,San Antonio,Commercial,Steel,Closing
+4358195.808,49.76629569,239,10,Phoenix,Commercial,Steel,Closing
+3005077.684,20.40163422,200,7,Chicago,Industrial,Steel,Execution
+4575830.624,46.15111088,238,8,San Antonio,Infrastructure,Wood,Closing
+2912656.053,29.66933693,242,8,Houston,Industrial,Concrete,Closing
+853531.8041,6.371280934,54,0,San Jose,Infrastructure,Brick,Execution
+1802074.373,24.70385594,130,5,New York,Industrial,Brick,Closing
+533787.3345,13.07967803,62,1,Phoenix,Industrial,Wood,Planning
+886390.5943,8.448666217,56,1,Philadelphia,Industrial,Brick,Planning
+4269127.466,31.24085597,242,10,Philadelphia,Commercial,Concrete,Planning
+4721180.085,37.18026256,234,10,Houston,Infrastructure,Wood,Execution
+652478.7552,7.837209061,58,1,Phoenix,Industrial,Wood,Execution
+1911343.55,15.57598643,147,7,Phoenix,Residential,Brick,Closing
+2797220.81,30.42843581,181,8,Houston,Residential,Wood,Execution
+822327.205,6.774401227,57,3,San Jose,Commercial,Brick,Closing
+4817967.796,42.8703561,278,9,Chicago,Infrastructure,Glass,Execution
+769930.273,7.482621729,19,1,San Diego,Infrastructure,Wood,Execution
+4691677.164,40.25830488,255,11,Phoenix,Industrial,Steel,Planning
+2693778.499,32.57127378,211,8,San Antonio,Industrial,Brick,Planning
+2168124.005,22.73366784,145,5,Los Angeles,Commercial,Steel,Closing
+4520687.626,50.2103802,256,10,Los Angeles,Residential,Glass,Execution
+4669354.155,29.3638629,248,9,Chicago,Infrastructure,Concrete,Execution
+2104567.098,17.13149998,150,7,Houston,Residential,Glass,Planning
+1764192.042,25.93839694,141,5,San Diego,Residential,Steel,Closing
+845795.9651,11.66831053,71,0,Phoenix,Infrastructure,Wood,Execution
+466925.8516,7.896773386,43,0,San Antonio,Residential,Wood,Planning
+1791038.161,10.16821705,191,4,Dallas,Commercial,Wood,Execution
+961684.8974,1.206302568,26,0,San Diego,Residential,Wood,Closing
+2940064.67,29.74897691,252,7,Chicago,Industrial,Wood,Planning
+929919.9751,11.5364976,66,2,San Diego,Commercial,Concrete,Execution
+867371.4188,20.95227813,30,0,San Antonio,Industrial,Steel,Closing
+3035042.284,44.92629501,207,8,San Diego,Residential,Brick,Closing
+740107.2581,13.37409746,28,1,San Antonio,Commercial,Concrete,Planning
+416118.9438,12.71680096,37,2,Phoenix,Industrial,Glass,Execution
+4556750.205,35.0606333,233,11,Los Angeles,Infrastructure,Wood,Closing
+2911391.196,27.60253516,206,8,Los Angeles,Industrial,Glass,Execution
+4276090.774,38.03235072,254,11,Houston,Commercial,Glass,Execution
+4600048.094,37.33199847,274,9,Dallas,Infrastructure,Concrete,Closing
+3360869.622,29.04548104,214,7,Phoenix,Commercial,Steel,Planning
+718398.4203,7.86559465,30,0,Philadelphia,Residential,Brick,Execution
+3011986.526,31.38688469,227,7,Philadelphia,Commercial,Concrete,Planning
+4611310.625,33.32259215,260,8,Dallas,Infrastructure,Brick,Planning
+1869716.399,17.58057083,144,5,Houston,Industrial,Concrete,Planning
+940084.7676,7.115481722,32,1,San Diego,Industrial,Concrete,Planning
+801205.9469,14.91345492,83,2,Dallas,Residential,Glass,Planning
+2835097.168,26.95705138,189,7,Dallas,Infrastructure,Glass,Closing
+4377135.371,36.45105504,270,9,Phoenix,Commercial,Glass,Planning
+2024640.961,22.75742688,151,7,San Jose,Residential,Brick,Execution
+2322742.254,22.26767151,145,6,Dallas,Industrial,Concrete,Closing
+4197105.938,41.60796606,285,10,Houston,Commercial,Concrete,Planning
+499692.1152,17.21882302,48,2,Houston,Commercial,Concrete,Planning
+3003123.667,34.51138587,182,10,Houston,Commercial,Steel,Execution
+4480675.266,37.92016536,231,11,Dallas,Residential,Steel,Closing
+4343599.301,36.20148441,215,10,Dallas,Residential,Steel,Planning
+1760823.388,22.22301334,174,4,San Antonio,Commercial,Steel,Planning
+2794125.698,23.23664857,170,9,Philadelphia,Commercial,Concrete,Closing
+4701894.358,35.77529281,220,10,Philadelphia,Industrial,Concrete,Closing
+742834.7922,17.82321828,-2,2,San Jose,Industrial,Wood,Planning
+1972510.297,24.76437274,182,6,New York,Industrial,Glass,Planning
+3074421.095,31.94579598,199,9,San Antonio,Commercial,Steel,Closing
+573228.5128,10.76862553,51,0,San Jose,Residential,Steel,Closing
+3179413.239,36.37437521,213,7,Los Angeles,Infrastructure,Concrete,Planning
+4564157.145,40.97025972,225,10,Dallas,Infrastructure,Steel,Closing
+4474469.064,37.19696182,191,12,Dallas,Industrial,Glass,Execution
+591905.1089,12.35734179,88,2,Chicago,Commercial,Wood,Execution
+2148419.074,21.4964629,176,7,New York,Commercial,Steel,Closing
+4545152.305,40.08806626,230,11,San Jose,Residential,Steel,Planning
+4489219.03,35.0884821,272,12,Dallas,Commercial,Steel,Planning
+700922.3768,6.231319178,32,0,Chicago,Residential,Glass,Planning
+3138695.782,28.0399368,221,9,San Antonio,Industrial,Steel,Closing
+3347770.27,28.39378617,237,9,San Diego,Commercial,Concrete,Closing
+2066396.066,20.9524984,164,5,Dallas,Residential,Steel,Closing
+3380827.318,38.12979458,244,8,Dallas,Infrastructure,Wood,Planning
+783290.4416,12.46225632,56,3,Los Angeles,Residential,Wood,Planning
+4871100.663,41.12117372,243,8,New York,Infrastructure,Concrete,Closing
+804315.7674,3.616257121,28,2,Philadelphia,Residential,Steel,Planning
+3109776.767,28.72522103,197,8,Houston,Infrastructure,Glass,Planning
+4701488.795,33.72538666,254,11,San Antonio,Industrial,Concrete,Closing
+2056657.574,18.70547513,162,5,Chicago,Commercial,Steel,Execution
+1906459.76,21.73251941,149,5,Dallas,Commercial,Brick,Planning
+2929717.153,37.81706679,184,10,Phoenix,Residential,Wood,Execution
+2635879.34,31.35028679,162,8,Los Angeles,Industrial,Brick,Execution
+4736128.182,36.86343277,251,10,Los Angeles,Commercial,Concrete,Execution
+4447468.096,38.31806527,269,10,San Jose,Industrial,Concrete,Execution
+2874147.321,37.66863855,189,6,Phoenix,Commercial,Brick,Execution
+642048.0639,6.108476373,54,0,Dallas,Infrastructure,Wood,Closing
+2998880.796,33.34370828,178,8,New York,Industrial,Concrete,Closing
+3125905.917,25.9784212,218,7,Philadelphia,Commercial,Steel,Closing
+3050633.048,34.10172006,199,8,Dallas,Infrastructure,Steel,Closing
+4632940.549,37.23539581,270,10,Dallas,Infrastructure,Brick,Execution
+548796.5237,3.929056936,73,2,Chicago,Infrastructure,Steel,Closing
+2856233.522,33.72502656,196,8,San Jose,Infrastructure,Glass,Planning
+815385.4748,8.904497356,67,0,San Jose,Residential,Glass,Execution
+1921648.37,15.38794908,182,5,Philadelphia,Residential,Wood,Planning
+4585663.338,40.38578248,238,10,San Diego,Commercial,Concrete,Planning
+2189910.827,12.57551016,99,6,Phoenix,Infrastructure,Brick,Execution
+2037916.323,25.00523046,96,6,San Diego,Residential,Concrete,Planning
+1967973.441,23.35670038,154,4,Los Angeles,Industrial,Brick,Execution
+762046.042,22.31621056,46,1,Houston,Residential,Glass,Closing
+2764881.079,25.52465079,212,7,New York,Infrastructure,Glass,Planning
+2709764.862,29.93955526,175,8,Dallas,Commercial,Glass,Planning
+2782969.895,25.87294735,259,9,Chicago,Infrastructure,Steel,Planning
+644047.9592,12.56633717,52,2,San Jose,Residential,Brick,Execution
+2858084.029,23.70747545,196,8,New York,Commercial,Wood,Execution
+3139765.684,32.10486472,210,7,Los Angeles,Residential,Brick,Closing
+1040228.722,14.79635413,93,0,San Jose,Commercial,Brick,Closing
+2583177.412,38.62348325,194,8,Phoenix,Infrastructure,Glass,Closing
+4399643.161,33.13767226,256,10,Chicago,Residential,Concrete,Execution
+537539.2573,12.36796215,32,3,New York,Industrial,Glass,Closing
+4323786.333,36.43889618,274,11,New York,Commercial,Concrete,Execution
+4668146.896,41.03901254,224,9,Phoenix,Commercial,Brick,Execution
+545753.4366,13.54178224,55,0,New York,Industrial,Steel,Planning
+619871.4862,7.564373081,38,0,Phoenix,Industrial,Steel,Closing
+4936819.347,42.85253604,238,9,Los Angeles,Industrial,Brick,Closing
+4956330.367,36.91179162,219,8,Phoenix,Industrial,Brick,Closing
+1973138.252,24.05404137,166,3,Chicago,Residential,Steel,Planning
+1565466.091,24.23710839,139,5,Houston,Infrastructure,Steel,Execution
+832686.9806,19.38397906,35,0,San Diego,Industrial,Wood,Planning
+2696425.251,28.214854,218,9,New York,Residential,Glass,Closing
+646542.31,17.0467372,96,1,Houston,Residential,Brick,Planning
+2880497.961,37.11184931,235,9,Philadelphia,Commercial,Steel,Planning
+598173.4677,10.75196893,57,3,San Antonio,Infrastructure,Glass,Execution
+474466.1264,5.3108748,60,2,Houston,Residential,Wood,Planning
+2909350.318,37.26233767,207,8,Los Angeles,Infrastructure,Steel,Closing
+2879203.875,28.85225672,167,8,San Antonio,Commercial,Brick,Closing
+3284549.627,34.63107701,219,9,New York,Commercial,Glass,Planning
+4514536.105,37.94253428,248,10,New York,Industrial,Glass,Planning
+4431490.16,40.85231885,231,10,San Jose,Infrastructure,Brick,Closing
+2853808.745,33.78960925,214,10,Dallas,Commercial,Brick,Execution
+4280526.336,32.61537536,235,11,San Antonio,Infrastructure,Concrete,Planning
+3077361.704,35.45490213,240,9,San Jose,Commercial,Glass,Execution
+702210.3906,5.46218169,38,2,Dallas,Commercial,Brick,Planning
+634872.4348,10.61004907,101,1,San Jose,Infrastructure,Glass,Execution
+853009.5373,29.26365745,61,2,New York,Industrial,Brick,Planning
+1978539.571,22.23858463,119,4,Chicago,Commercial,Concrete,Execution
+2883989.352,31.1970225,210,8,San Jose,Infrastructure,Wood,Planning
+2031971.278,14.8616243,175,4,Philadelphia,Infrastructure,Steel,Execution
+3170179.592,29.31314106,208,8,New York,Residential,Steel,Planning
+815226.6044,3.744432118,68,1,Chicago,Infrastructure,Concrete,Execution
+806198.3735,6.886502401,46,1,Phoenix,Commercial,Steel,Closing
+549171.8466,6.161012174,49,1,Houston,Commercial,Glass,Execution
+3106901.13,34.43827713,194,10,Dallas,Industrial,Glass,Planning
+4469935.908,38.36651893,229,9,Los Angeles,Commercial,Steel,Planning
+3039458.453,31.55654337,234,9,Los Angeles,Residential,Glass,Planning
+3171690.223,28.82689715,201,7,New York,Residential,Concrete,Closing
+727534.3901,8.895152002,62,2,San Jose,Infrastructure,Glass,Execution
+4383643.593,34.13060018,246,12,Houston,Industrial,Glass,Closing
+874823.9634,13.14172755,50,0,San Jose,Infrastructure,Concrete,Execution
+1856318.547,24.47462188,144,6,New York,Infrastructure,Glass,Closing
+716576.3839,10.73356843,74,0,Houston,Infrastructure,Concrete,Closing
+3210389.524,25.00969686,192,8,Philadelphia,Commercial,Wood,Planning
+2980907.151,21.11876833,198,7,Philadelphia,Commercial,Concrete,Execution
+799876.7367,17.8872664,48,1,New York,Residential,Concrete,Execution
+3102158.418,35.15290293,187,9,Philadelphia,Infrastructure,Steel,Planning
+2901375.436,37.21816002,175,9,Dallas,Residential,Steel,Execution
+4775299.29,41.5656607,264,11,New York,Commercial,Steel,Execution
+1683761.86,24.47519157,140,5,New York,Infrastructure,Wood,Planning
+1174431.239,15.1623263,20,1,Los Angeles,Industrial,Glass,Closing
+1927511.812,14.40165053,124,6,San Jose,Residential,Steel,Execution
+4378529.113,39.61389477,259,10,Houston,Infrastructure,Brick,Closing
+1500118.857,31.45471286,122,3,Philadelphia,Residential,Wood,Closing
+4604450.127,39.51042377,295,11,Philadelphia,Residential,Brick,Execution
+2110010.42,15.15827773,152,4,New York,Residential,Brick,Planning
+3136713.865,23.17022144,224,8,Los Angeles,Commercial,Concrete,Planning
+917138.4224,4.351465727,61,2,Houston,Residential,Concrete,Closing
+1661408.637,19.50830187,130,4,New York,Residential,Concrete,Closing
+861958.0896,15.40390363,67,1,Chicago,Infrastructure,Wood,Planning
+3123154.23,36.01942219,197,8,Los Angeles,Residential,Brick,Closing
+897693.316,10.85684141,48,1,San Antonio,Industrial,Brick,Planning
+1887150.48,20.92275652,181,7,Philadelphia,Residential,Wood,Closing
+1001151.225,5.526963489,46,1,Philadelphia,Infrastructure,Concrete,Planning
+583528.8854,12.35707778,39,2,San Diego,Residential,Concrete,Planning
+2145525.909,20.25972943,165,5,Philadelphia,Industrial,Glass,Planning
+1973196.567,20.07344097,134,6,New York,Infrastructure,Brick,Execution
+4599239.837,37.32341644,260,12,Chicago,Residential,Wood,Execution
+4563490.652,38.33569798,248,9,Phoenix,Commercial,Glass,Planning
+2111665.383,20.38002696,161,4,San Diego,Residential,Brick,Execution
+1957311.426,27.45363068,153,5,Houston,Infrastructure,Brick,Execution
+2954280.017,25.02825313,149,8,San Jose,Infrastructure,Steel,Planning
+585555.9209,11.21843606,55,0,San Jose,Industrial,Concrete,Closing
+4471570.693,41.69343659,271,11,San Jose,Residential,Steel,Execution
+4242567.286,33.01440907,238,11,Chicago,Commercial,Concrete,Execution
+2861057.374,27.95358781,190,8,Houston,Infrastructure,Concrete,Planning
+2260868.049,11.68754006,171,6,Los Angeles,Commercial,Brick,Planning
+4388776.251,39.34969853,283,9,Dallas,Commercial,Steel,Planning
+2986564.342,26.42120005,214,9,San Antonio,Industrial,Glass,Execution
+888028.7983,7.993897641,54,1,Phoenix,Commercial,Brick,Execution
+219806.0383,15.45753426,75,0,San Diego,Infrastructure,Concrete,Closing
+2076387.09,22.15020824,171,5,San Jose,Industrial,Glass,Execution
+2380238.137,19.69669593,136,3,San Jose,Industrial,Wood,Closing
+3053072.47,27.08620671,151,8,Chicago,Industrial,Concrete,Execution
+2085763.3,23.46552804,154,5,Chicago,Industrial,Brick,Planning
+661991.1027,10.65370289,79,0,San Antonio,Residential,Brick,Planning
+2015364.378,13.58503888,170,5,San Antonio,Infrastructure,Concrete,Execution
+609589.3812,8.361689267,42,0,San Jose,Industrial,Glass,Execution
+4337799.827,34.42976775,255,10,San Antonio,Infrastructure,Concrete,Closing
+2955359.549,37.44931719,168,7,Dallas,Commercial,Concrete,Execution
+4464181.343,41.97909891,264,11,Philadelphia,Residential,Brick,Planning
+4378699.322,42.27952098,241,9,Chicago,Residential,Concrete,Planning
+964726.35,4.867423503,53,0,Los Angeles,Industrial,Concrete,Planning
+3043355.113,24.51348736,188,7,San Jose,Commercial,Wood,Planning
+4537035.107,42.12722432,254,11,San Jose,Industrial,Concrete,Planning
+2247656.614,20.10635788,156,7,Phoenix,Industrial,Steel,Closing
+4551439.794,38.79667413,250,10,Dallas,Residential,Brick,Closing
+805993.7253,4.372554764,99,1,San Diego,Industrial,Steel,Closing
+629872.262,8.541531251,38,3,Philadelphia,Industrial,Glass,Closing
+747300.5551,4.711445355,66,0,Phoenix,Infrastructure,Brick,Execution
+2040113.839,25.74318675,130,5,San Diego,Residential,Wood,Planning
+761144.9825,15.47095759,16,3,Dallas,Residential,Concrete,Closing
+2964887.211,33.34327402,202,9,San Diego,Commercial,Concrete,Closing
+645455.3959,15.24504613,36,0,Dallas,Commercial,Brick,Closing
+989009.3258,2.384065476,39,1,Dallas,Infrastructure,Concrete,Execution
+807954.9714,20.37700399,67,1,Los Angeles,Residential,Concrete,Closing
+1786977.267,18.47387648,138,5,Chicago,Infrastructure,Glass,Planning
+2948764.05,28.79251277,199,8,New York,Industrial,Wood,Planning
+1980282.374,20.09424811,164,5,San Antonio,Residential,Wood,Closing
+2914151.116,32.94276635,168,8,Phoenix,Infrastructure,Concrete,Execution
+4378354.699,41.81557814,256,8,San Diego,Industrial,Wood,Execution
+1872207.65,13.38455103,183,6,Houston,Residential,Steel,Execution
+1974292.498,10.59075477,139,5,Los Angeles,Industrial,Concrete,Planning
+4479313.755,33.80473649,292,12,San Antonio,Residential,Wood,Execution
+4933011.214,45.95274297,254,11,Houston,Commercial,Glass,Closing
+2011329.985,22.64846377,149,5,Dallas,Infrastructure,Wood,Closing
+580641.2564,2.425763877,41,2,San Diego,Commercial,Concrete,Closing
+4236573.616,43.88013957,230,9,Los Angeles,Infrastructure,Concrete,Execution
+4785771.542,32.62933934,238,10,New York,Infrastructure,Concrete,Closing
+2079844.625,23.2359797,140,7,Dallas,Commercial,Glass,Execution
+3032952.168,30.25443851,203,8,Dallas,Commercial,Steel,Closing
+4690309.954,34.89418771,259,10,San Jose,Residential,Brick,Planning
+1870144.491,13.88029867,151,4,Philadelphia,Residential,Steel,Closing
+752600.3784,17.26767039,45,4,Philadelphia,Residential,Concrete,Planning
+4641215.783,38.78659362,229,11,Phoenix,Residential,Wood,Planning
+3131849.134,34.68785069,168,7,Dallas,Industrial,Brick,Execution
+4822955.758,38.38985923,277,9,San Diego,Infrastructure,Steel,Execution
+705807.1652,10.13442919,54,0,New York,Industrial,Wood,Closing
+1950787.502,15.78376702,193,5,Dallas,Commercial,Brick,Execution
+4749900.98,33.33611301,243,9,Los Angeles,Industrial,Wood,Planning
+613995.0557,11.16126849,56,0,Phoenix,Infrastructure,Wood,Execution
+4695684.422,42.61071273,228,10,San Jose,Infrastructure,Glass,Execution
+831650.5511,1.487081979,71,1,Houston,Commercial,Steel,Execution
+3014407.372,28.93895515,181,8,San Jose,Residential,Concrete,Planning
+2909997.428,36.28574608,189,8,Dallas,Residential,Brick,Execution
+1869184.863,10.84683552,160,6,Dallas,Industrial,Brick,Planning
+624606.5884,19.06224279,64,0,San Antonio,Commercial,Concrete,Execution
+2073457.463,29.19091838,146,5,San Antonio,Residential,Wood,Closing
+717742.8577,12.02025428,88,1,Los Angeles,Residential,Concrete,Planning
+901397.7233,5.389173379,67,2,San Antonio,Residential,Glass,Planning
+3349916.781,36.90727039,174,9,San Diego,Commercial,Wood,Closing
+700564.5235,6.59007876,30,1,Los Angeles,Residential,Concrete,Closing
+3482523.084,33.92302144,200,8,San Diego,Industrial,Glass,Closing
+2990897.551,27.87881833,189,8,New York,Residential,Glass,Planning
+2899405.046,31.31743608,206,8,San Jose,Industrial,Wood,Closing
+1887566.395,18.95389063,116,4,Phoenix,Infrastructure,Wood,Closing
+2962620.768,21.84763378,224,9,San Antonio,Commercial,Wood,Planning
+584900.5606,8.393070792,58,0,San Jose,Residential,Steel,Closing
+1039395.577,10.98277388,71,0,San Antonio,Residential,Glass,Closing
+2414816.534,15.40307704,99,5,Los Angeles,Residential,Steel,Execution
+2345508.634,22.18161835,151,5,Chicago,Industrial,Concrete,Execution
+564613.9057,9.70237322,-15,0,Chicago,Commercial,Brick,Closing
+2183815.297,18.54862728,155,5,San Jose,Residential,Concrete,Planning
+2322444.126,24.48419658,145,4,Houston,Infrastructure,Glass,Closing
+2135585.174,17.56044296,193,4,Dallas,Infrastructure,Glass,Closing
+2058711.586,13.21709098,159,5,New York,Residential,Brick,Execution
+4271396.138,44.10079093,249,10,Los Angeles,Residential,Brick,Planning
+4546557.349,36.21618011,206,11,New York,Commercial,Steel,Planning
+3051550.508,23.79119712,207,8,San Jose,Commercial,Concrete,Planning
+1906937.909,19.47025823,203,3,San Jose,Residential,Steel,Planning
+1119327.399,4.649576168,19,0,Phoenix,Industrial,Wood,Closing
+2244206.739,22.91048852,145,4,Chicago,Industrial,Concrete,Planning
+735966.8577,1.695195332,59,1,San Jose,Commercial,Glass,Closing
+1176606.675,0.239561002,47,2,Los Angeles,Residential,Concrete,Execution
+2953826.725,37.26630332,173,9,Los Angeles,Infrastructure,Concrete,Planning
+3008183.835,24.98906272,215,7,Chicago,Residential,Wood,Execution
+4340011.899,30.45998931,242,11,Chicago,Infrastructure,Steel,Closing
+4109779.627,40.71793968,214,11,New York,Infrastructure,Brick,Execution
+3162279.311,24.25868356,216,10,Los Angeles,Industrial,Glass,Execution
+2396097.569,30.91924772,236,9,Chicago,Infrastructure,Steel,Closing
+3059124.898,22.41678725,230,7,San Jose,Industrial,Glass,Planning
+2172094.698,17.08461281,147,5,Los Angeles,Infrastructure,Wood,Closing
+4354079.506,41.80708659,224,11,Dallas,Industrial,Glass,Planning
+2279871.087,24.62316841,151,4,Chicago,Industrial,Brick,Planning
+394255.9502,17.48022156,63,1,Dallas,Infrastructure,Wood,Planning
+1762480.316,21.54910355,163,5,San Jose,Residential,Brick,Execution
+2889892.63,23.89643787,190,8,Houston,Infrastructure,Glass,Closing
+1676973.637,25.82369677,135,4,Dallas,Residential,Glass,Closing
+4305324.232,45.03566668,257,10,Dallas,Infrastructure,Wood,Closing
+3114122.599,34.8409233,193,7,San Jose,Infrastructure,Wood,Closing
+4544867.931,44.52008777,244,11,San Jose,Commercial,Concrete,Execution
+1994718.849,21.40080579,134,5,Chicago,Commercial,Steel,Planning
+2480683.117,19.71190601,154,6,San Antonio,Residential,Steel,Execution
+485953.3586,19.15729383,74,1,Dallas,Commercial,Steel,Closing
+2472850.452,30.01687753,207,9,Los Angeles,Industrial,Concrete,Planning
+443177.1659,16.38838411,57,0,Dallas,Industrial,Wood,Closing
+4388890.644,41.02194516,226,10,Philadelphia,Industrial,Wood,Planning
+2812698.725,26.66110222,206,8,San Antonio,Residential,Brick,Planning
+1875246.208,29.57015677,146,5,New York,Residential,Wood,Planning
+4515715.406,29.35632953,259,9,Houston,Residential,Brick,Execution
+4153759.739,47.47469114,251,10,San Diego,Commercial,Concrete,Closing
+4708344.933,42.91772152,247,11,Phoenix,Industrial,Brick,Closing
+2144476.272,18.13583424,185,5,Houston,Commercial,Steel,Closing
+3139107.552,34.24551055,194,8,Houston,Infrastructure,Steel,Planning
+741968.4099,2.846124489,53,0,Phoenix,Industrial,Concrete,Planning
+2781613.22,34.4512375,203,9,Phoenix,Commercial,Brick,Closing
+4501435.693,29.56761171,253,12,Los Angeles,Industrial,Brick,Execution
+705307.4429,13.57000247,59,1,San Diego,Residential,Wood,Planning
+1799933.735,16.61127515,160,5,Los Angeles,Industrial,Wood,Execution
+4487184.447,42.68145455,206,10,San Antonio,Infrastructure,Steel,Planning
+3020371.259,37.74510076,175,7,San Antonio,Commercial,Steel,Planning
+3069930.009,22.17598614,202,8,San Jose,Commercial,Steel,Execution
+3316108.137,24.92452904,184,7,Dallas,Industrial,Glass,Execution
+3095271.554,32.5273508,221,11,Dallas,Commercial,Brick,Execution
+606311.1557,8.932764241,56,2,Los Angeles,Residential,Brick,Closing
+1925558.645,25.4437431,188,7,San Diego,Infrastructure,Wood,Planning
+3015191.054,33.71341209,210,7,Phoenix,Commercial,Brick,Closing
+728593.928,4.823788388,39,0,New York,Residential,Concrete,Planning
+4455505.021,50.23431098,237,10,Philadelphia,Residential,Concrete,Planning
+1994695.748,15.59062674,147,4,Chicago,Commercial,Concrete,Planning
+1604140.038,23.73955128,129,5,San Diego,Industrial,Wood,Closing
+2091177.554,30.82501172,137,6,San Jose,Commercial,Brick,Planning
+894334.4128,4.354741144,40,1,San Antonio,Commercial,Glass,Planning
+765473.6615,5.693578993,80,2,San Antonio,Commercial,Brick,Closing
+924464.1273,10.91671003,94,0,San Jose,Commercial,Wood,Planning
+375841.6158,8.24243258,50,3,San Antonio,Infrastructure,Brick,Execution
+4879553.403,35.26053641,233,11,Houston,Infrastructure,Steel,Execution
+3143076.263,33.59092863,209,8,Houston,Infrastructure,Steel,Planning
+4627732.034,45.29059163,257,10,San Jose,Industrial,Wood,Closing
+1601252.871,21.87028285,175,4,Dallas,Commercial,Brick,Planning
+1965385.635,20.07789524,128,4,San Jose,Infrastructure,Concrete,Closing
+3186438.313,28.81722356,223,7,Houston,Industrial,Glass,Closing
+4467132.959,41.06046677,230,9,Chicago,Residential,Glass,Execution
+663100.7545,8.454139383,54,1,New York,Commercial,Glass,Execution
+588301.2794,7.491214782,68,1,San Jose,Commercial,Steel,Closing
+2890088.573,34.29793943,192,8,San Jose,Commercial,Steel,Planning
+942675.2258,12.06390463,66,3,Chicago,Infrastructure,Glass,Planning
+4226835.169,39.25515345,260,12,New York,Infrastructure,Brick,Planning
+2494087.984,28.5169627,205,7,Philadelphia,Commercial,Steel,Closing
+2893757.141,32.41938326,178,9,Philadelphia,Infrastructure,Brick,Planning
+4096302.427,40.72531873,266,10,Philadelphia,Residential,Steel,Closing
+1812912.26,25.42991058,139,6,Philadelphia,Infrastructure,Brick,Planning
+2621277.067,31.06646854,200,7,Houston,Infrastructure,Concrete,Execution
+791772.719,0.201649381,23,1,Dallas,Infrastructure,Concrete,Planning
+2926144.572,30.71694234,164,8,Philadelphia,Commercial,Wood,Planning
+2415052.175,16.55406091,185,5,Houston,Infrastructure,Glass,Execution
+1879726.471,21.59890967,118,5,Houston,Residential,Brick,Execution
+3176466.612,27.73954834,191,8,San Jose,Infrastructure,Glass,Closing
+1063104.806,9.671248695,39,3,Los Angeles,Commercial,Wood,Planning
+2122703.595,14.88603717,145,3,San Antonio,Commercial,Steel,Planning
+3082973.1,32.31644265,201,9,Los Angeles,Industrial,Brick,Planning
+743057.6461,4.156609812,73,2,San Diego,Industrial,Glass,Closing
+2217179.113,22.37349116,149,6,Dallas,Commercial,Steel,Planning
+1761214.999,20.71471547,185,7,Chicago,Industrial,Glass,Execution
+4600548.961,27.5336459,231,12,Los Angeles,Commercial,Glass,Closing
+4556201.85,29.33702187,270,10,Houston,Residential,Brick,Planning
+1890751.11,21.95902003,120,5,San Antonio,Residential,Steel,Planning
+2064633.543,19.26198707,141,3,Los Angeles,Infrastructure,Glass,Planning
+3052088.453,27.30579072,180,6,Chicago,Infrastructure,Concrete,Planning
+3312577.754,28.63003459,195,8,Dallas,Commercial,Brick,Planning
+4471924.988,41.53806334,240,11,San Antonio,Residential,Brick,Closing
+2928331.97,26.76229097,215,8,Los Angeles,Industrial,Glass,Execution
+2004843.891,27.06110278,148,5,New York,Commercial,Steel,Execution
+3038127.118,34.7065529,179,8,Philadelphia,Residential,Steel,Closing
+4315087.177,32.01200415,243,10,San Jose,Infrastructure,Concrete,Planning
+4678590.774,49.14810101,242,11,Houston,Industrial,Glass,Execution
+1995726.541,16.2639416,102,6,Chicago,Industrial,Steel,Closing
+3390831.487,27.47126648,179,9,Chicago,Commercial,Glass,Closing
+2199602.022,5.518723109,192,5,Phoenix,Residential,Wood,Planning
+582055.6316,7.003036773,8,0,San Diego,Industrial,Brick,Execution
+2038876.86,18.23416854,157,5,Philadelphia,Commercial,Glass,Execution
+2127610.22,22.50422237,114,4,New York,Infrastructure,Steel,Planning
+632127.0486,14.24801049,57,0,Dallas,Commercial,Brick,Closing
+3046014.152,32.48871545,213,8,New York,Infrastructure,Concrete,Planning
+4656574.747,37.84437215,258,11,Chicago,Commercial,Steel,Execution
+4717753.931,38.11849638,250,9,New York,Infrastructure,Brick,Execution
+1761272.634,24.59577087,170,4,Philadelphia,Residential,Glass,Execution
+1879557.588,22.34387128,130,5,Chicago,Residential,Glass,Execution
+4584813.372,40.19723524,221,9,New York,Infrastructure,Concrete,Planning
+1996116.079,18.48410109,166,3,Houston,Infrastructure,Concrete,Closing
+859419.4762,8.989036738,46,2,Phoenix,Infrastructure,Brick,Execution
+595434.9571,8.815906966,40,1,San Jose,Residential,Glass,Execution
+4580096.277,40.65532593,248,9,Houston,Residential,Wood,Execution
+3077264.664,28.9776439,235,10,Philadelphia,Commercial,Concrete,Execution
+881708.8545,20.05102269,46,0,Chicago,Residential,Glass,Planning
+4300970.304,39.09248419,206,10,San Jose,Commercial,Steel,Planning
+3135828.555,28.4897725,193,9,Phoenix,Commercial,Brick,Planning
+4409090.456,38.90673361,248,10,Houston,Infrastructure,Glass,Planning
+2906838.886,29.24581144,199,8,San Jose,Infrastructure,Steel,Planning
+3918602.356,38.12588972,229,8,San Diego,Residential,Brick,Closing
+4747916.801,38.01885161,271,11,Houston,Industrial,Steel,Execution
+1965963.075,17.73385975,164,6,Houston,Infrastructure,Glass,Closing
+1996938.03,22.8964575,152,4,Philadelphia,Commercial,Steel,Planning
+1948191.571,19.01825075,149,5,San Jose,Commercial,Brick,Closing
+1688683.62,17.8594242,180,6,Phoenix,Residential,Brick,Closing
+1975810.37,22.09766222,132,5,San Antonio,Residential,Concrete,Execution
+772703.4691,13.31065337,82,0,San Diego,Commercial,Concrete,Execution
+4442290.261,36.08123239,285,9,Los Angeles,Industrial,Brick,Closing
+4545052.823,43.46361378,225,12,San Antonio,Infrastructure,Wood,Planning
+4569512.323,40.4334885,257,10,Philadelphia,Residential,Glass,Closing
+2654838.654,26.61217674,224,7,Philadelphia,Commercial,Concrete,Execution
+4289971.852,43.78747575,277,11,San Jose,Industrial,Steel,Closing
+627442.2619,8.0614922,56,1,San Diego,Residential,Wood,Planning
+868130.9661,15.5435179,66,2,San Jose,Industrial,Steel,Closing
+3087347.71,32.02147377,225,7,Los Angeles,Commercial,Brick,Closing
+1808975.484,22.11799533,191,4,San Antonio,Residential,Concrete,Planning
+1639372.065,12.07932028,155,6,San Jose,Commercial,Concrete,Planning
+2842802.793,23.09477698,206,9,San Antonio,Infrastructure,Steel,Planning
+1866381.909,24.96021175,147,4,Phoenix,Infrastructure,Concrete,Execution
+407373.0942,16.76936187,48,2,Phoenix,Commercial,Wood,Closing
+2815628.037,24.98021314,204,8,Philadelphia,Infrastructure,Steel,Execution
+1979110.156,19.15589138,151,6,San Antonio,Commercial,Concrete,Closing
+2878659.941,31.05641846,224,8,Houston,Industrial,Concrete,Execution
+2022654.082,12.80861011,168,4,San Antonio,Industrial,Wood,Execution
+2973705.481,34.13023586,191,6,Houston,Residential,Steel,Closing
+4452377.913,40.23001374,232,11,Phoenix,Residential,Glass,Closing
+2822151.834,34.77650279,218,9,San Diego,Industrial,Glass,Closing
+3167788.1,26.91373407,189,7,San Diego,Infrastructure,Wood,Execution
+2154339.742,5.757286897,173,3,San Jose,Industrial,Concrete,Execution
+2853165.24,30.40997778,209,9,San Jose,Commercial,Glass,Planning
+4535057.356,33.31637281,242,10,Los Angeles,Commercial,Brick,Planning
+4676281.506,43.60567681,232,11,San Antonio,Industrial,Glass,Execution
+1805668.653,13.10190918,137,6,San Diego,Commercial,Brick,Closing
+3292835.448,34.98429387,206,10,Chicago,Industrial,Steel,Closing
+1790617.803,22.68326376,174,6,San Diego,Infrastructure,Glass,Execution
+1781537.447,18.41795775,174,5,Philadelphia,Commercial,Steel,Execution
+3017178.601,18.90349814,195,7,Chicago,Residential,Glass,Closing
+4187701.356,47.51709914,243,10,Los Angeles,Industrial,Brick,Execution
+460397.2199,-0.994029783,59,0,San Antonio,Infrastructure,Steel,Planning
+4546289.185,43.23244769,246,9,Dallas,Commercial,Concrete,Planning
+646477.7402,11.11893976,50,2,San Antonio,Commercial,Steel,Planning
+2192970.327,28.07791412,125,4,Los Angeles,Residential,Concrete,Planning
+1569636.92,16.4042334,146,4,San Antonio,Commercial,Concrete,Planning
+4333609.017,36.80858637,234,9,New York,Commercial,Brick,Closing
+431114.4682,7.003124885,50,1,Phoenix,Industrial,Glass,Planning
+769399.193,12.97578513,34,3,Chicago,Residential,Wood,Planning
+2204514.086,32.19876203,178,6,Chicago,Infrastructure,Concrete,Closing
+4444037.932,35.17731103,260,9,Houston,Commercial,Glass,Closing
+1965474.54,24.41829969,163,3,Los Angeles,Infrastructure,Brick,Closing
+2048150.636,33.00841557,161,3,San Antonio,Infrastructure,Concrete,Planning
+3134096.123,24.64071383,169,9,San Jose,Commercial,Glass,Planning
+454295.6019,6.400778958,41,2,San Diego,Industrial,Concrete,Execution
+4357063.865,42.60639953,256,10,Dallas,Commercial,Glass,Planning
+2964645.167,22.25690851,190,8,San Diego,Residential,Glass,Execution
+2182716.925,15.98410525,180,5,San Diego,Commercial,Brick,Planning
+1856635.536,10.66731691,148,5,Dallas,Residential,Concrete,Execution
+2846171.53,25.30048449,217,8,Phoenix,Industrial,Concrete,Planning
+2335540.163,17.23205879,161,7,Houston,Infrastructure,Steel,Execution
+2012894.883,10.12266717,131,5,Philadelphia,Commercial,Steel,Planning
+2326686.306,14.26827303,156,4,Phoenix,Residential,Steel,Execution
+1060100.099,5.008229796,70,1,San Antonio,Commercial,Steel,Planning
+2009772.014,20.20295846,136,4,Philadelphia,Residential,Concrete,Closing
+2263423.013,19.40965737,108,4,San Antonio,Industrial,Wood,Closing
+4707217.53,32.88512537,231,10,Los Angeles,Residential,Concrete,Execution
+703169.3251,8.829315215,82,2,Chicago,Infrastructure,Steel,Execution
+2374659.555,25.40024033,141,6,Philadelphia,Residential,Wood,Closing
+4630995.117,44.05399323,230,10,San Antonio,Industrial,Wood,Closing
+803410.0532,14.44815398,52,2,Philadelphia,Infrastructure,Brick,Planning
+635267.5986,7.265705294,49,0,Houston,Industrial,Glass,Planning
+2124314.378,18.15194832,158,5,New York,Residential,Brick,Closing
+643899.7705,7.120908797,44,0,Phoenix,Commercial,Wood,Planning
+749279.4922,4.208176554,80,2,Phoenix,Residential,Concrete,Planning
+1003382.23,6.461652672,59,2,Phoenix,Residential,Concrete,Closing
+4917209.41,34.92620253,243,10,Houston,Infrastructure,Steel,Planning
+3006559.399,26.20752333,195,7,Los Angeles,Industrial,Steel,Planning
+3000105.592,33.00603374,171,6,Dallas,Industrial,Brick,Planning
+344971.4827,10.93227157,37,2,Dallas,Commercial,Brick,Execution
+2932972.444,31.71168917,231,9,Phoenix,Industrial,Steel,Closing
+4252514.672,40.54704236,277,10,New York,Infrastructure,Concrete,Planning
+2624689.459,33.09855723,187,7,Chicago,Infrastructure,Steel,Planning
+848663.5802,10.92418062,33,2,Los Angeles,Commercial,Glass,Execution
+2025044.901,17.85297229,152,6,San Jose,Residential,Wood,Planning
+4839144.576,49.48644347,253,11,Phoenix,Residential,Concrete,Execution
+878544.552,16.64576265,54,2,San Antonio,Commercial,Glass,Planning
+850183.4375,5.112223776,52,2,San Jose,Infrastructure,Steel,Closing
+552854.7907,12.52023258,39,0,Philadelphia,Industrial,Steel,Execution
+2087311.961,24.51967421,103,4,Chicago,Industrial,Glass,Execution
+4680079.718,42.2561266,274,9,Los Angeles,Industrial,Brick,Planning
+3334690.418,36.70230526,174,9,Chicago,Residential,Concrete,Planning
+2033692.195,26.58798768,130,6,Los Angeles,Residential,Wood,Planning
+4425628.424,36.35769189,256,12,Los Angeles,Commercial,Steel,Execution
+4588839.665,45.50661479,259,11,San Antonio,Infrastructure,Glass,Execution
+4656426,36.04550309,234,11,Los Angeles,Industrial,Wood,Planning
+3140901.308,33.94528344,202,9,Phoenix,Commercial,Wood,Planning
+921531.9246,9.20030735,50,0,Phoenix,Commercial,Wood,Closing
+788219.8136,10.23218274,23,2,Chicago,Infrastructure,Glass,Planning
+2302689.949,23.15405842,130,7,Houston,Infrastructure,Steel,Closing
+1877319.467,18.48765157,142,5,Houston,Infrastructure,Brick,Execution
+696118.6331,13.58771128,80,1,San Antonio,Residential,Concrete,Execution
+892191.9936,12.22131656,43,2,Houston,Residential,Steel,Execution
+381825.1537,3.602115166,38,1,Los Angeles,Infrastructure,Concrete,Execution
+3106963.467,36.14490251,187,8,Philadelphia,Commercial,Wood,Execution
+3087900.246,33.89468252,209,10,Phoenix,Commercial,Brick,Closing
+3002854.614,25.2303029,192,9,Los Angeles,Industrial,Wood,Closing
+2899164.034,29.59238663,207,8,San Antonio,Industrial,Wood,Planning
+1687490.829,17.35473661,166,4,New York,Residential,Concrete,Closing
+4307058.915,48.14234277,244,12,Chicago,Industrial,Wood,Planning
+935235.5095,19.5470832,22,2,San Diego,Commercial,Wood,Planning
+3083679.644,37.00799296,213,6,Los Angeles,Industrial,Glass,Execution
+771878.9589,13.62883312,60,1,Phoenix,Residential,Brick,Execution
+769535.2197,6.134951081,50,1,San Antonio,Commercial,Glass,Planning
+3099972.825,23.00346913,207,6,New York,Infrastructure,Steel,Planning
+2026708.181,19.23765082,164,6,Chicago,Infrastructure,Glass,Planning
+593349.3415,8.389692419,66,0,Phoenix,Industrial,Glass,Execution
+849342.8306,9.308678494,63,3,San Diego,Industrial,Wood,Execution
+3177377.478,27.89619103,148,8,Los Angeles,Infrastructure,Wood,Closing
+4264126.176,40.86127193,263,12,New York,Commercial,Glass,Execution
+655792.3389,11.16024969,21,0,Los Angeles,Commercial,Steel,Closing
+4398038.661,40.17220506,200,9,Phoenix,Industrial,Concrete,Execution
+622452.0031,7.345015225,38,0,New York,Commercial,Glass,Closing
+4133663.551,34.74345044,280,12,San Antonio,Industrial,Concrete,Closing
+4260060.494,28.41928069,267,9,Phoenix,Commercial,Brick,Execution
+4527977.447,44.98059107,222,10,Phoenix,Industrial,Steel,Execution
+823734.6618,8.033305938,51,2,Houston,Infrastructure,Glass,Closing
+2937388.394,29.99645703,175,9,San Jose,Industrial,Concrete,Planning
+665962.6366,8.591076956,23,0,Dallas,Industrial,Glass,Planning
+1730574.742,15.14192981,174,4,Chicago,Industrial,Concrete,Planning
+4461146.174,36.2210425,271,12,San Diego,Commercial,Concrete,Execution
+3485343.297,32.16479913,172,7,Phoenix,Commercial,Concrete,Execution
+2107659.216,25.36253669,143,4,Houston,Infrastructure,Wood,Execution
+3224870.672,28.32961385,211,7,Phoenix,Industrial,Steel,Execution
+3036766.903,43.46516832,207,7,Chicago,Residential,Brick,Planning
+1818853.54,16.73116831,138,6,Philadelphia,Industrial,Concrete,Execution
+4403287.703,36.93916541,260,10,Philadelphia,Commercial,Brick,Planning
+982632.7504,10.05116531,30,1,Philadelphia,Residential,Brick,Closing
+604572.5648,8.762406822,49,2,New York,Industrial,Steel,Planning
+3114625.563,21.07066754,193,8,San Diego,Industrial,Concrete,Closing
+4529104.24,36.92938717,253,12,Phoenix,Infrastructure,Brick,Planning
+4903055.022,46.4532223,242,9,Houston,Infrastructure,Glass,Planning
+2907119.148,32.31030447,216,8,San Antonio,Commercial,Concrete,Execution
+1212931.713,0.663674037,64,0,San Jose,Industrial,Concrete,Execution
+4635789.398,35.93798826,249,10,Chicago,Commercial,Wood,Closing
+4750568.527,37.75887692,236,8,Chicago,Industrial,Brick,Closing
+4420020.188,41.34647376,249,10,Los Angeles,Residential,Glass,Planning
+4590120.683,30.6509183,227,10,Chicago,Residential,Brick,Planning
+1834481.956,20.43071942,129,2,Philadelphia,Residential,Glass,Closing
+3411308.713,24.34555782,209,7,New York,Industrial,Concrete,Closing
+3173831.213,34.43645419,185,8,Philadelphia,Residential,Brick,Planning
+2063834.902,26.70225223,112,5,San Antonio,Infrastructure,Steel,Planning
+2856416.222,28.84737687,224,8,Houston,Infrastructure,Wood,Planning
+1998785.818,24.19245387,152,5,Chicago,Industrial,Steel,Execution
+700851.3872,8.636382151,-4,1,Philadelphia,Residential,Concrete,Planning
+742088.9692,13.40750349,51,1,San Antonio,Industrial,Glass,Execution
+879075.1899,16.84315779,31,2,San Jose,Residential,Steel,Planning
+2605979.236,34.46298669,176,9,San Antonio,Residential,Glass,Execution
+790584.6042,2.421279425,81,3,San Antonio,Residential,Wood,Execution
+2016487.951,12.7122425,144,4,Philadelphia,Residential,Concrete,Closing
+1789263.516,14.66098539,169,7,Philadelphia,Commercial,Steel,Planning
+4358621.486,44.2777783,283,11,Houston,Industrial,Concrete,Closing
+4439828.051,33.95261532,258,10,San Antonio,Industrial,Steel,Planning
+699486.3697,3.76108409,83,0,San Jose,Infrastructure,Steel,Planning
+789811.9391,6.998915614,51,1,New York,Commercial,Brick,Closing
+2934276.305,33.01593716,189,8,Chicago,Commercial,Brick,Execution
+2775491.039,25.41248589,220,8,Los Angeles,Commercial,Steel,Planning
+1758061.051,22.99964365,181,6,San Antonio,Infrastructure,Concrete,Closing
+1075723.109,3.099492709,16,1,San Diego,Residential,Wood,Planning
+4884689.159,36.12692515,216,10,Los Angeles,Industrial,Concrete,Execution
+907160.0317,12.12728781,31,1,Phoenix,Residential,Steel,Closing
+555063.666,13.93542302,73,0,Houston,Commercial,Wood,Planning
+1938393.143,23.89830266,176,6,Los Angeles,Industrial,Steel,Closing
+489106.0999,13.34836274,57,0,Houston,Residential,Steel,Planning
+4759212.612,34.46421592,243,10,San Jose,Industrial,Glass,Execution
+2220191.927,29.79173727,125,5,Houston,Industrial,Concrete,Planning
+446961.7876,16.83437134,83,1,San Antonio,Residential,Wood,Execution
+1781806.714,17.94592856,128,5,Philadelphia,Infrastructure,Brick,Closing
+1955749.275,18.6159335,156,6,New York,Residential,Wood,Execution
+2020840.221,19.68703436,135,5,Los Angeles,Commercial,Wood,Planning
+3041931.883,27.54181907,216,7,San Diego,Residential,Concrete,Closing
+554825.3494,15.26820898,31,4,Phoenix,Industrial,Wood,Execution
+2807248.215,25.21424543,207,8,San Jose,Industrial,Steel,Planning
+681462.4812,8.14279567,22,0,Houston,Industrial,Steel,Closing
+660899.4957,17.26692239,82,0,New York,Residential,Wood,Closing
+4617180.84,36.31614932,222,10,Phoenix,Infrastructure,Wood,Closing
+4566170.261,47.25500719,268,9,Phoenix,Infrastructure,Concrete,Planning
+4477866.926,35.51678886,267,10,Houston,Commercial,Steel,Planning
+1572865.157,35.68874267,171,5,Chicago,Industrial,Glass,Closing
+1905232.131,19.92773865,161,5,Chicago,Residential,Brick,Execution
+2917400.436,25.36650846,199,7,Phoenix,Industrial,Brick,Planning
+656105.1228,12.71280022,41,1,San Jose,Infrastructure,Steel,Closing
+1875470.128,20.97303728,135,4,Phoenix,Residential,Glass,Planning
+908206.3894,5.453062726,78,0,San Antonio,Residential,Glass,Planning
+4327659.386,40.1501574,207,11,Houston,Commercial,Glass,Planning
+703813.094,13.48103182,87,2,Chicago,Infrastructure,Concrete,Closing
+2131180.155,20.97368097,150,5,Chicago,Commercial,Glass,Planning
+2776695.112,36.1790581,197,7,Phoenix,Commercial,Steel,Planning
+2013571.102,24.26386838,160,4,Los Angeles,Industrial,Glass,Closing
+1103090.848,12.02490855,25,2,Chicago,Residential,Glass,Planning
+4663100.204,39.75955746,246,10,Houston,Commercial,Brick,Planning
+622522.5745,15.94508266,78,0,San Diego,Industrial,Steel,Planning
+4485205.427,39.62167198,289,9,Los Angeles,Infrastructure,Brick,Closing
+597348.1687,0.975589497,17,1,New York,Commercial,Brick,Closing
+2327992.906,23.71063746,152,3,San Antonio,Infrastructure,Wood,Planning
+1123154.902,12.3691646,26,2,Los Angeles,Residential,Wood,Planning
+4635786.258,39.31502255,240,10,Philadelphia,Commercial,Brick,Planning
+2295308.07,26.90045677,137,5,Los Angeles,Infrastructure,Glass,Execution
+1994497.019,28.86125798,183,5,Dallas,Commercial,Glass,Closing
+4540465.759,48.1592845,235,12,San Diego,Industrial,Concrete,Closing
+886378.2979,19.23353663,62,1,New York,Commercial,Brick,Execution
+333614.1184,18.48228184,54,1,Los Angeles,Infrastructure,Brick,Planning
+4277683.95,39.82087211,239,8,San Jose,Residential,Concrete,Execution
+2959701.693,29.96739342,212,9,Los Angeles,Residential,Brick,Closing
+696222.2619,4.467370456,101,1,San Jose,Infrastructure,Brick,Execution
+1912722.822,19.45195098,148,5,Philadelphia,Infrastructure,Glass,Closing
+4510451.698,34.69697467,236,9,New York,Infrastructure,Concrete,Planning
+4738547.033,33.71065922,265,11,Philadelphia,Industrial,Brick,Execution
+1694868.737,26.31292052,139,8,Houston,Commercial,Steel,Planning
+4340888.586,42.12196969,276,8,Phoenix,Industrial,Wood,Planning
+2102720.021,17.3364958,127,2,San Jose,Commercial,Brick,Closing
+1842802.108,13.34383523,113,6,New York,Residential,Glass,Closing
+4590701.743,35.08852983,251,10,Los Angeles,Commercial,Wood,Planning
+2944207.414,28.60119916,216,8,Philadelphia,Residential,Concrete,Execution
+3204276.659,40.44221386,168,6,San Antonio,Residential,Glass,Closing
+4328700.353,40.48835188,225,8,San Antonio,Infrastructure,Glass,Execution
+4560340.002,40.87768115,213,9,Philadelphia,Residential,Concrete,Planning
+3004493.179,32.73559558,176,9,Phoenix,Infrastructure,Glass,Planning
+876481.5478,14.86277225,62,0,San Jose,Commercial,Wood,Planning
+4353673.652,49.45220343,251,11,Houston,Residential,Concrete,Planning
+795491.9869,16.53571377,18,1,Los Angeles,Commercial,Brick,Planning
+1950261.775,28.03672788,160,6,Houston,Industrial,Glass,Closing
+809224.0554,11.30527636,50,1,Dallas,Infrastructure,Concrete,Execution
+2582594.596,27.07691135,199,7,San Antonio,Commercial,Glass,Planning
+255671.1,6.015523723,62,1,Philadelphia,Industrial,Brick,Execution
+2190627.327,21.43562083,138,5,San Antonio,Residential,Glass,Planning
+1824403.483,15.86559823,145,5,New York,Residential,Brick,Execution
+2153216.056,26.13466612,148,5,Los Angeles,Industrial,Brick,Execution
+1852894.011,26.18046588,172,6,Los Angeles,Industrial,Wood,Closing
+4374453.219,38.55980563,278,8,Phoenix,Residential,Brick,Planning
+4539226.292,35.47965855,219,10,San Antonio,Commercial,Wood,Closing
+2006400.83,16.23291065,159,4,Los Angeles,Infrastructure,Concrete,Planning
+2989519.11,38.52052758,225,8,San Jose,Infrastructure,Glass,Planning
+2225210.05,19.74303138,115,6,Houston,Commercial,Wood,Closing
+4481108.257,42.09804986,233,11,New York,Industrial,Steel,Closing
+2032114.796,20.0152301,159,6,Los Angeles,Commercial,Steel,Closing
+4601117.848,47.44556554,295,10,Los Angeles,Residential,Concrete,Closing
+4690003.166,41.21502361,219,10,Philadelphia,Infrastructure,Concrete,Planning
+3404861.925,23.18412998,204,7,San Jose,Industrial,Steel,Execution
+1987172.331,21.64381205,156,5,New York,Infrastructure,Steel,Closing
+912505.1645,16.78120014,49,2,Houston,Industrial,Brick,Closing
+4642542.406,30.58424896,243,10,Chicago,Industrial,Glass,Planning
+798392.4543,0.433598777,16,0,San Diego,Residential,Concrete,Execution
+2669022.513,25.19976852,198,8,New York,Industrial,Glass,Execution
+1068637.325,7.443921618,30,1,San Jose,Infrastructure,Concrete,Execution
+4220842.16,42.95674621,236,10,San Diego,Residential,Brick,Closing
+3178039.682,35.17624667,163,7,San Antonio,Industrial,Steel,Execution
+1883895.31,22.94289202,183,5,Philadelphia,Residential,Steel,Closing
+940800.3527,13.25695626,44,2,Los Angeles,Industrial,Steel,Planning
+3093334.196,37.60503114,181,10,San Jose,Industrial,Concrete,Planning
+724416.4817,5.222297797,18,1,New York,Commercial,Steel,Closing
+2855652.489,30.88410436,189,8,Philadelphia,Industrial,Brick,Execution
+1972308.803,13.87850882,146,4,Phoenix,Industrial,Steel,Closing
+2808712.725,32.36203139,230,8,San Diego,Industrial,Brick,Planning
+3219293.847,26.87161356,174,8,New York,Commercial,Concrete,Planning
+3136665.799,28.9534309,221,10,Phoenix,Infrastructure,Glass,Planning
+2953196.028,32.33179187,220,8,San Diego,Industrial,Brick,Execution
+2995289.57,29.12822871,205,8,San Antonio,Residential,Glass,Execution
+2924960.724,28.41142452,226,9,San Jose,Residential,Brick,Planning
+505574.4382,13.56499215,45,1,Los Angeles,Commercial,Concrete,Execution
+875133.4696,5.714212218,29,1,Los Angeles,Commercial,Brick,Execution
+2726336.992,39.93638,218,8,Dallas,Commercial,Glass,Planning
+3081721.462,28.46095764,183,7,Phoenix,Infrastructure,Brick,Execution
+3112576.172,25.60092823,240,7,San Antonio,Industrial,Glass,Planning
+2934421.057,30.77595342,217,7,New York,Commercial,Wood,Closing
+4672327.225,40.69530199,218,9,Phoenix,Industrial,Brick,Execution
+4225428.11,41.7573995,210,10,San Jose,Commercial,Glass,Execution
+4222291.489,31.99864448,226,10,San Antonio,Residential,Wood,Closing
+4655869.801,39.8049024,242,8,San Antonio,Industrial,Steel,Closing
+598729.8509,2.888731452,37,0,San Antonio,Industrial,Concrete,Planning
+2839992.287,29.68237713,225,8,Dallas,Commercial,Brick,Closing
+4423436.562,39.38135527,242,9,Dallas,Commercial,Brick,Closing
+826813.0898,9.83652626,9,1,Chicago,Commercial,Brick,Closing
+4898310.66,35.83969348,239,10,Los Angeles,Industrial,Steel,Planning
+4655031.099,42.76520043,255,10,Houston,Infrastructure,Wood,Planning
+4772512.571,48.20307282,313,9,Los Angeles,Residential,Brick,Planning
+3134572.247,32.95907067,193,7,San Antonio,Infrastructure,Steel,Planning
+606939.2581,13.39798874,35,1,New York,Commercial,Glass,Closing
+801944.5003,5.478416874,63,0,Dallas,Industrial,Wood,Execution
+3018350.497,31.26120198,198,8,Chicago,Industrial,Steel,Execution
+4835278.605,35.2724656,227,11,New York,Commercial,Wood,Closing
+2962175.922,34.60825056,197,10,Houston,Industrial,Steel,Execution
+918128.7098,6.736880103,41,0,Houston,Commercial,Brick,Execution
+2412300.715,26.04183115,170,6,Dallas,Commercial,Steel,Closing
+2033872.165,12.93142752,148,4,Phoenix,Residential,Wood,Execution
+1871290.034,25.14980409,143,5,Los Angeles,Infrastructure,Glass,Planning
+824229.1747,6.980074066,52,1,San Diego,Industrial,Steel,Execution
+614615.5999,13.05838144,71,2,Los Angeles,Infrastructure,Glass,Execution
+916067.1633,5.71958087,51,1,Houston,Commercial,Wood,Closing
+1043129.754,8.871118498,51,0,Phoenix,Residential,Steel,Closing
+817699.2815,7.92356043,63,3,San Jose,Industrial,Brick,Closing
+854388.3131,11.48492337,55,1,New York,Infrastructure,Concrete,Execution
+4740052.35,37.68419319,242,11,San Jose,Infrastructure,Wood,Planning
+2174259.459,13.2701016,153,7,Chicago,Residential,Steel,Closing
+4628108.587,40.61539101,248,9,San Jose,Infrastructure,Concrete,Execution
+2139390.881,18.33090255,173,5,San Jose,Residential,Glass,Planning
+2678467.795,30.92370289,240,8,Chicago,Industrial,Concrete,Execution
+3049861.719,35.22544237,203,8,San Diego,Infrastructure,Concrete,Planning
+2278493.06,18.74976743,156,5,San Jose,Infrastructure,Concrete,Closing
+1936189.213,16.01987072,172,5,Los Angeles,Infrastructure,Steel,Closing
+3125101.603,34.42615741,188,8,Phoenix,Infrastructure,Wood,Closing
+1779326.679,9.235547035,158,7,New York,Infrastructure,Concrete,Planning
+4514639.398,39.24878506,274,10,San Jose,Industrial,Wood,Planning
+3124441.429,24.30583441,221,8,Houston,Commercial,Brick,Execution
+2463865.908,21.9665892,154,5,Dallas,Industrial,Concrete,Closing
+1877646.182,19.81481601,141,4,Los Angeles,Commercial,Brick,Execution
+1940487.299,26.87853407,147,5,Phoenix,Commercial,Glass,Planning
+3135874.657,24.25602982,213,8,New York,Infrastructure,Wood,Closing
+767409.4136,8.504963248,52,0,Dallas,Infrastructure,Concrete,Closing
+2908775.835,30.9071331,212,7,Philadelphia,Infrastructure,Wood,Closing
+3004177.298,31.15350453,175,7,San Diego,Commercial,Concrete,Planning
+2061610.108,18.04175716,155,5,San Diego,Commercial,Concrete,Planning
+4924954.281,46.65669531,288,9,New York,Commercial,Glass,Execution
+3100133.144,30.24886844,200,7,Philadelphia,Industrial,Concrete,Planning
+2192775.823,31.05261501,139,4,San Diego,Industrial,Concrete,Closing
+659986.9057,13.11424966,29,1,San Jose,Industrial,Wood,Planning
+3199314.102,27.6675231,213,8,Phoenix,Residential,Steel,Execution
+2017681.377,27.38765041,127,5,San Diego,Commercial,Wood,Execution
+1989021.2,21.42777037,160,6,Phoenix,Residential,Steel,Planning
+1771254.759,20.54279853,149,5,San Antonio,Commercial,Glass,Execution
+577917.3269,8.077222279,70,0,Philadelphia,Infrastructure,Wood,Planning
+2190625.009,22.5654271,165,6,Philadelphia,Industrial,Wood,Closing
+641016.1826,11.99568057,49,2,Chicago,Industrial,Brick,Closing
+627696.4394,2.966694516,32,0,Houston,Infrastructure,Steel,Closing
+2064615.855,18.73823249,144,3,New York,Residential,Concrete,Planning
+3361861.27,28.90977052,183,7,San Jose,Infrastructure,Wood,Planning
+2875130.922,29.07737321,188,6,Chicago,Infrastructure,Steel,Planning
+4716538.211,37.64437674,248,11,Philadelphia,Commercial,Concrete,Closing
+963334.9379,15.84647795,78,2,Dallas,Infrastructure,Concrete,Planning
+786373.251,11.24110293,41,0,Philadelphia,Residential,Glass,Closing
+3052804.016,36.3617675,215,8,Phoenix,Infrastructure,Steel,Planning
+706065.6224,11.78556286,80,0,Houston,Commercial,Brick,Planning
+2111120.893,20.44790341,146,5,San Jose,Commercial,Concrete,Planning
+2221105.187,25.93515153,163,4,Phoenix,Residential,Brick,Planning
+1996072.44,22.76244977,154,6,San Jose,Industrial,Glass,Execution
